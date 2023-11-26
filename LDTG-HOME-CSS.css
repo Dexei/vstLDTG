@@ -75,7 +75,7 @@ header img{
 }
 .con1{
     position: relative;
-    background-color: #72E5F2;
+    background-color: #ffffff;
     background-image: url('https://static.vecteezy.com/system/resources/previews/024/212/249/original/ai-generated-sticker-anime-girl-with-blue-hair-png.png');
     background-size: 150px;
     background-position: bottom right;
@@ -133,7 +133,7 @@ header img{
 }
 
 .sidebar{
-    background-color: #72E5F2;
+    background-color: #ffffff;
 }
 
 .side_con{
@@ -180,45 +180,9 @@ header img{
 }
 .ideas div{
     display: inline-block;
-    background-color: #72E5F2;
+    background-color: #ffffff;
     width: 300px;
     height: 400px;
     margin: 5%;
     border-radius: 8px;
 }
-.modal{
-    position: fixed;
-    text-align: center;
-    padding: 20px;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    border-radius: 20px;
-    width: 300px;
-    height: 300px;
-    font-family: Arial;
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0px 0px 10px 100vh rgba(0, 0, 0, 0.5);
-    z-index: 100;
-    visibility: visible;
-}
-.modal-proceed{
-    visibility: hidden;
-}
-.modal button{
-    position: absolute;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%);
-    background-color: #06bed2;
-    color: white;
-    padding: 10px;
-    font-size: 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-.modal button:hover{
-    background-color: #37def0;
-}
-
