@@ -1,0 +1,52 @@
+#home{
+    background-color: #048ABF;
+    color: white;
+    text-decoration: none;
+}
+.con1{
+    position: relative;
+    background-color: #ffffff;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/024/212/249/original/ai-generated-sticker-anime-girl-with-blue-hair-png.png');
+    background-size: 150px;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 350px;
+    margin-bottom: 200px;
+}
+.con1 div{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 45%;
+    transform: translate(0,-50%);
+    display: grid;
+    align-content: center;
+}
+.con1 h1{
+    font-size: 60px;
+    font-family: Helvetica;
+    width: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+    margin-left: 8%;
+}
+.con1 p{
+    font-size: 16px;
+    margin: 0px;
+    margin-left: 11%;
+}
+.ideas{
+    width: 100%;
+    text-align: center;
+}
+.ideas div{
+    display: inline-block;
+    background-color: #ffffff;
+    width: 300px;
+    height: 400px;
+    margin: 5%;
+    border-radius: 8px;
+}

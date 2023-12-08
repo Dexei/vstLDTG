@@ -1,0 +1,34 @@
+#about{
+    background-color: #048ABF;
+    color: white;
+    text-decoration: none;
+}
+.con1{
+    background-color: #ffffff;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding-top: 70px;
+    padding-bottom: 40px;
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+}
+.myPROFILE{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+.aboutME{
+    display: grid;
+    text-align: center;
+    justify-content: start;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#account{
+    width: 180px;
+    height: 180px;
+    border-radius: 1000%;
+    border-width: 1.8px;
+    border-style: solid;
+    border-color: #0A2740;;
+}

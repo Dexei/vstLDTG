@@ -1,0 +1,23 @@
+@media only screen and (min-width: 900px){
+    .searchbar{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 50%;
+        grid-template-columns: 1fr 40px;
+    }
+    .search{
+        width: 95%;
+    }
+}
+@media only screen and (min-width: 500px) and (max-width: 899px){
+    .searchbar{
+        position: absolute;
+        top: 50%;
+        left: 77%;
+        transform: translate(-77%,-50%);
+        width: 42%;
+        grid-template-columns: 1fr 40px;
+    }
+}
